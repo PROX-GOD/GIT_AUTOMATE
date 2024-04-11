@@ -32,7 +32,7 @@ git clone https://github.com/PROX-GOD/GIT_AUTOMATION.git
 cd GIT_AUTOMATION
 python run.py
         </pre>
-        <p>Make sure to replace <code>PROX-GOD</code> with your GitHub username.</p>
+        <p>Make sure to fork and star <code>GIT_AUTOMATION</code> repo</p>
     </div>
 </body>
 </html>
